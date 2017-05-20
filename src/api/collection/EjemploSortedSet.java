@@ -20,8 +20,10 @@ public class EjemploSortedSet {
         ordenados.add("z");
         ordenados.add("a");
         ordenados.add("b");
-    }
-    for(String l:ordenados){
+        
+        for(String l:ordenados){
     System.out.println(l);
+    }
+
 }
 }
